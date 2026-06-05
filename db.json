@@ -22,6 +22,11 @@
             "unlocked": true
         },
         {
+            "title": "Expedited Egress",
+            "desc": "Clock out as soon as you can without reprimand.",
+            "unlocked": true
+        },
+        {
             "title": "After Dark",
             "desc": "Contact coworkers while off the clock.",
             "unlocked": true
@@ -37,13 +42,8 @@
             "unlocked": true
         },
         {
-            "title": "Hey, We Are NOT Chicken",
-            "desc": "Load the rotisserie oven.",
-            "unlocked": true
-        },
-        {
-            "title": "Cutting Edge",
-            "desc": "Complete the meat slicer tutorial.",
+            "title": "Boss Makes A Dollar...",
+            "desc": "Head to Waste Management on company time.",
             "unlocked": true
         },
         {
@@ -79,6 +79,36 @@
         {
             "title": "Post Bale",
             "desc": "Use the cardboard baler.",
+            "unlocked": true
+        },
+        {
+            "title": "Cutting Edge",
+            "desc": "Complete the meat slicer tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "Openers' Lament",
+            "desc": "Complete the production tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "Finger Lickin' Good",
+            "desc": "Complete the deep fryer tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "Hey, We Are NOT Chicken",
+            "desc": "Load the rotisserie oven.",
+            "unlocked": true
+        },
+        {
+            "title": "You Can Pick Your Friends, You Can Pick Your Nose",
+            "desc": "Complete the VizPick tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "Chicken Spec",
+            "desc": "Complete the thermometer tutorial.",
             "unlocked": true
         },
         {
@@ -132,18 +162,13 @@
             "unlocked": true
         },
         {
-            "title": "Openers' Lament",
-            "desc": "Complete the production tutorial.",
+            "title": "Tactical Reload",
+            "desc": "Swap label rolls before the current roll is depleted.",
             "unlocked": true
         },
         {
-            "title": "Finger Lickin' Good",
-            "desc": "Complete the deep fryer tutorial.",
-            "unlocked": true
-        },
-        {
-            "title": "You Can Pick Your Friends, You Can Pick Your Nose",
-            "desc": "",
+            "title": "Ammunition Depleted",
+            "desc": "Fully expend a roll of labels.",
             "unlocked": true
         },
         {
@@ -164,6 +189,11 @@
         {
             "title": "Statistical Accuracy",
             "desc": "Meet a third trans coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "Retail.",
+            "desc": "Have a breakdown on the clock.",
             "unlocked": true
         },
         {
@@ -231,6 +261,11 @@
             "desc": "Refuse to report a coworker for breaking the rules.",
             "unlocked": true
         },
+        {
+            "title": "Innovation That Excites",
+            "desc": "Improve your tools",
+            "unlocked": true
+        },
 
 
         {
@@ -284,8 +319,18 @@
             "unlocked": false
         },
         {
+            "title": "Discriminatory Practice",
+            "desc": "Receive a derogatory remark.",
+            "unlocked": false
+        },
+        {
             "title": "Never To Be Seen Again",
             "desc": "Lose something at work.",
+            "unlocked": false
+        },
+        {
+            "title": "Regret",
+            "desc": "Go on lunch break without any money for lunch.",
             "unlocked": false
         },
         {
@@ -341,6 +386,21 @@
         {
             "title": "In The Bathed Room",
             "desc": "straijt up jorkin it. and by it, well, lets just say.",
+            "unlocked": false
+        },
+        {
+            "title": "Company Owned",
+            "desc": "Fully promoted to full-time.",
+            "unlocked": false
+        },
+        {
+            "title": "I'm Tired Of This, Grandpa",
+            "desc": "Work overtime.",
+            "unlocked": false
+        },
+        {
+            "title": "I Didn't See Nothin'",
+            "desc": "Catch someone shoplifting, and let them go.",
             "unlocked": false
         },
         {
