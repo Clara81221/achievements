@@ -481,7 +481,27 @@
         {
             "title": "Blink 182",
             "desc": "Work for 6 months.",
-            "unlocked": true
+            "unlocked": false
+        },
+        {
+            "title": "Rest For The Wicked",
+            "desc": "Accumulate a week of PTO.",
+            "unlocked": false
+        },
+        {
+            "title": "Comfortable Vacation",
+            "desc": "Accumulate a month of PTO.",
+            "unlocked": false
+        },
+        {
+            "title": "Extended Relaxation",
+            "desc": "Accumulate a full year of PTO.",
+            "unlocked": false
+        },
+        {
+            "title": "Unorthodox Request",
+            "desc": "Request a full year off of work.",
+            "unlocked": false
         },
         {
             "title": "Savvy",
