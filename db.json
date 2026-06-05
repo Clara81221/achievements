@@ -32,8 +32,38 @@
             "unlocked": true
         },
         {
+            "title": "Going Off The Rails",
+            "desc": "Work freight for an entire shift.",
+            "unlocked": true
+        },
+        {
             "title": "Hey, We Are NOT Chicken",
-            "desc": "Load the rotisserie oven",
+            "desc": "Load the rotisserie oven.",
+            "unlocked": true
+        },
+        {
+            "title": "Cutting Edge",
+            "desc": "Complete the meat slicer tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "Praise",
+            "desc": "Receive a compliment.",
+            "unlocked": true
+        },
+        {
+            "title": "Brevity",
+            "desc": "Swear with coworkers.",
+            "unlocked": true
+        },
+        {
+            "title": "Oops...",
+            "desc": "Swear in front of a customer.",
+            "unlocked": true
+        },
+        {
+            "title": "Sentient Directory",
+            "desc": "Guide a customer to a product.",
             "unlocked": true
         },
         {
@@ -82,6 +112,16 @@
             "unlocked": true
         },
         {
+            "title": "Skrillex & The Doors",
+            "desc": "Break a sweat.",
+            "unlocked": true
+        },
+        {
+            "title": "[Leonardo DiCaprio Pointing Meme]",
+            "desc": "Recognize a meme song on thestore radio.",
+            "unlocked": true
+        },
+        {
             "title": "Unauthorized Asset Reistribution",
             "desc": "Take equipment that was in use.",
             "unlocked": true
@@ -121,11 +161,51 @@
             "desc": "Doomscroll while on the clock.",
             "unlocked": true
         },
+        {
+            "title": "Friends With- Not That Kind!",
+            "desc": "Complete a personal favor for a coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "Cyclical Nature",
+            "desc": "Buy something from your own workplace.",
+            "unlocked": true
+        },
+        {
+            "title": "Dirty Business",
+            "desc": "Do the dishes.",
+            "unlocked": true
+        },
+        {
+            "title": "Gossip Girls",
+            "desc": "Talk about a coworker behind their back.",
+            "unlocked": true
+        },
+        {
+            "title": "Overstock Bonus",
+            "desc": "Add more product to a shelf than designated by cap.",
+            "unlocked": true
+        },
+        {
+            "title": "Self-Sabotage",
+            "desc": "Place an item in the incorrect place",
+            "unlocked": true
+        },
 
 
         {
             "title": "Live External Communications",
             "desc": "Join a voice call while on the clock.",
+            "unlocked": false
+        },
+        {
+            "title": "Caring",
+            "desc": "Share food with a coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "No Sense Crying",
+            "desc": "Spill product on the sales floor.",
             "unlocked": false
         },
         {
@@ -146,6 +226,26 @@
         {
             "title": "Five More Minutes...",
             "desc": "Fall asleep on break.",
+            "unlocked": false
+        },
+        {
+            "title": "Sweet Dreams",
+            "desc": "Sleep past the time you were due to clock in.",
+            "unlocked": false
+        },
+        {
+            "title": "Caught in 4k",
+            "desc": "Get recorded doing something illicit on camera.",
+            "unlocked": false
+        },
+        {
+            "title": "Caloric Klepto",
+            "desc": "Steal food from the breakroom.",
+            "unlocked": false
+        },
+        {
+            "title": "Scheduling Conflict",
+            "desc": "Work a day you weren't supposed to.",
             "unlocked": false
         },
         {
@@ -171,6 +271,11 @@
         {
             "title": "Compact Design",
             "desc": "Use the trash compactor.",
+            "unlocked": false
+        },
+        {
+            "title": "That Sinking Feeling",
+            "desc": "Encounter a wild Karen.",
             "unlocked": false
         },
         {
@@ -246,12 +351,12 @@
         {
             "title": "Gearhead",
             "desc": "Work in Automotive.",
-            "unlocked": true
+            "unlocked": false
         },
         {
             "title": "Pill Pusher",
             "desc": "Work in Pharmacy.",
-            "unlocked": true
+            "unlocked": false
         },
         {
             "title": "At Your Fingertips",
@@ -330,7 +435,7 @@
         },
         {
             "title": "Disclaimer",
-            "desc": "Achievements listed to not necessarily reflect real world occurances. There is no intention of executing any actions listed. This page is satirical in nature and in no way reflects employee practices.",
+            "desc": "Achievements listed do not necessarily reflect real world occurances. There is no intention of executing any actions listed. This page is satirical in nature and in no way reflects employee practices.",
             "unlocked": false
         }
     ]
