@@ -191,6 +191,11 @@
             "desc": "Place an item in the incorrect place",
             "unlocked": true
         },
+        {
+            "title": "Not My Problem",
+            "desc": "Delegate a task.",
+            "unlocked": true
+        },
 
 
         {
@@ -201,11 +206,16 @@
         {
             "title": "Caring",
             "desc": "Share food with a coworker.",
-            "unlocked": true
+            "unlocked": false
         },
         {
             "title": "No Sense Crying",
             "desc": "Spill product on the sales floor.",
+            "unlocked": false
+        },
+        {
+            "title": "Used & Abused",
+            "desc": "Break a tool.",
             "unlocked": false
         },
         {
