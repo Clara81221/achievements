@@ -43,8 +43,8 @@ function renderAchievement(container, achievement) {
     row.className = "achieveRow";
 
     const image = achievement.unlocked
-        ? "/assets/unlocked_achievement_default.png"
-        : "/assets/locked_achievement_default.png";
+        ? "./assets/unlocked_achievement_default.png"
+        : "./assets/locked_achievement_default.png";
 
     row.innerHTML = `
         <div class="achieveImgHolder">
