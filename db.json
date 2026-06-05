@@ -1,0 +1,35 @@
+{
+    "hours": 70,
+    "achievements": [
+        {
+            "title": "Learning The Ropes",
+            "desc": "Get hired.",
+            "unlocked": true
+        },
+        {
+            "title": "So It Begins...",
+            "desc": "Complete your first day.",
+            "unlocked": true
+        },
+        {
+            "title": "The Cycle Begins Anew",
+            "desc": "Complete week 1 and begin week 2.",
+            "unlocked": true
+        },
+        {
+            "title": "After Dark",
+            "desc": "Contact coworkers while off the clock.",
+            "unlocked": true
+        },
+        {
+            "title": "Don't You Dare.",
+            "desc": "Ride the scissor lift without authorization.",
+            "unlocked": false
+        },
+        {
+            "title": "That's... A Lot of Paperwork...",
+            "desc": "Cause an incident.",
+            "unlocked": false
+        }
+    ]
+}
