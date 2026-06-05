@@ -47,20 +47,150 @@
             "unlocked": true
         },
         {
-            "title": "",
-            "desc": "",
+            "title": "Post Bale",
+            "desc": "Use the cardboard baler.",
+            "unlocked": true
+        },
+        {
+            "title": "Ruined Potential",
+            "desc": "Accidentally destroy a product, to such a degree that it requires disposal.",
+            "unlocked": true
+        },
+        {
+            "title": "Kit & Kaboodle",
+            "desc": "Find an entire box of unsellable product.",
+            "unlocked": true
+        },
+        {
+            "title": "NotMyFault",
+            "desc": "Make a mistake on a customer's order.",
+            "unlocked": true
+        },
+        {
+            "title": "AJ. I'm AJ.",
+            "desc": "Take the morning shift.",
+            "unlocked": true
+        },
+        {
+            "title": "Luncheon",
+            "desc": "Take the midshift.",
+            "unlocked": true
+        },
+        {
+            "title": "Blood Money",
+            "desc": "Break skin while on the clock.",
             "unlocked": true
         },
 
 
         {
-            "title": "Don't You Dare.",
-            "desc": "Ride the scissor lift without authorization.",
+            "title": "Live External Communications",
+            "desc": "Join a voice call while on the clock.",
+            "unlocked": false
+        },
+        {
+            "title": "Never To Be Seen Again",
+            "desc": "Lose something at work.",
+            "unlocked": false
+        },
+        {
+            "title": "Well Done",
+            "desc": "Burn food.",
+            "unlocked": false
+        },
+        {
+            "title": "Hostile Equipment",
+            "desc": "Burn yourself with the rotisserie oven.",
+            "unlocked": false
+        },
+        {
+            "title": "Compact Design",
+            "desc": "Use the trash compactor.",
+            "unlocked": false
+        },
+        {
+            "title": "Upgrades, People",
+            "desc": "Get promoted.",
+            "unlocked": false
+        },
+        {
+            "title": "Letter of Recommendation",
+            "desc": "Get soembody promoted.",
+            "unlocked": false
+        },
+        {
+            "title": "Justice May Prevail",
+            "desc": "Report a coworker.",
+            "unlocked": false
+        },
+        {
+            "title": "Unforeseen Consequences",
+            "desc": "Get somebody fired.",
+            "unlocked": false
+        },
+        {
+            "title": "Thin Ice",
+            "desc": "Slip and fall.",
+            "unlocked": false
+        },
+        {
+            "title": "Jack Of All Trades",
+            "desc": "Work in every department.",
+            "unlocked": false
+        },
+        {
+            "title": "Late Night Mop",
+            "desc": "Take the closing shift.",
+            "unlocked": false
+        },
+        {
+            "title": "Temporal Diversity",
+            "desc": "Work every shift type once.",
+            "unlocked": false
+        },
+        {
+            "title": "Sam & Ella",
+            "desc": "Serve undercooked food.",
+            "unlocked": false
+        },
+        {
+            "title": "The Yeast Of Your Concerns",
+            "desc": "Work in Bakery",
+            "unlocked": false
+        },
+        {
+            "title": "Not (Supposed To Be) My Problem",
+            "desc": "Get pulled to a different department.",
+            "unlocked": false
+        },
+        {
+            "title": "Unfortunate",
+            "desc": "Drop open food on the floor.",
+            "unlocked": false
+        },
+        {
+            "title": "When I Ripped My Pants",
+            "desc": "Ruin an article of clothing at work",
             "unlocked": false
         },
         {
             "title": "That's... A Lot of Paperwork...",
             "desc": "Cause an incident.",
+            "unlocked": false
+        },
+        {
+            "title": "General Odor",
+            "desc": "Get called out for smelling like pot.",
+            "unlocked": false
+        },
+        {
+            "title": "Bittersweet Symphony",
+            "desc": "Get fired.",
+            "unlocked": false
+        },
+        {
+            "title": "Don't You Dare.",
+            "desc": "Ride the scissor lift without authorization.",
             "unlocked": false
         }
     ]
