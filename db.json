@@ -244,6 +244,16 @@
             "unlocked": false
         },
         {
+            "title": "Gearhead",
+            "desc": "Work in Automotive.",
+            "unlocked": true
+        },
+        {
+            "title": "Pill Pusher",
+            "desc": "Work in Pharmacy.",
+            "unlocked": true
+        },
+        {
             "title": "At Your Fingertips",
             "desc": "Work in OGP.",
             "unlocked": false
