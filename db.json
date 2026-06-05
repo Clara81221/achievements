@@ -137,6 +137,16 @@
             "unlocked": true
         },
         {
+            "title": "Finger Lickin' Good",
+            "desc": "Complete the deep fryer tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "You Can Pick Your Friends, You Can Pick Your Nose",
+            "desc": "",
+            "unlocked": true
+        },
+        {
             "title": "That's a Wrap",
             "desc": "Complete an entire round of daily production (Wraps & Pinwheels)",
             "unlocked": true
@@ -192,8 +202,33 @@
             "unlocked": true
         },
         {
+            "title": "Rightful Place",
+            "desc": "Bring an item back to where it's supposed to go.",
+            "unlocked": true
+        },
+        {
+            "title": "Overextension",
+            "desc": "Take care of something that is not your department's responsibility.",
+            "unlocked": true
+        },
+        {
             "title": "Not My Problem",
             "desc": "Delegate a task.",
+            "unlocked": true
+        },
+        {
+            "title": "Fully Certified",
+            "desc": "Complete all required training for your position.",
+            "unlocked": true
+        },
+        {
+            "title": "Hello, Operator?",
+            "desc": "Take a call for the company.",
+            "unlocked": true
+        },
+        {
+            "title": "Week To Week / Cheek To Cheek / Us Assholes Stick Together",
+            "desc": "Refuse to report a coworker for breaking the rules.",
             "unlocked": true
         },
 
@@ -204,8 +239,38 @@
             "unlocked": false
         },
         {
+            "title": "Quitter",
+            "desc": "Quit your position.",
+            "unlocked": false
+        },
+        {
+            "title": "Abandonment",
+            "desc": "Use (P)PTO to leave before you're scheduled to clock out.",
+            "unlocked": false
+        },
+        {
+            "title": "Presence Unknown",
+            "desc": "Fail to work without reporting yourself absent.",
+            "unlocked": false
+        },
+        {
+            "title": "Advance Notice",
+            "desc": "Report yourself absent, and stay home.",
+            "unlocked": false
+        },
+        {
+            "title": "Harmful Redundancy",
+            "desc": "Mark yourself absent, and show up anyways.",
+            "unlocked": false
+        },
+        {
             "title": "Caring",
             "desc": "Share food with a coworker.",
+            "unlocked": false
+        },
+        {
+            "title": "Snitches Get Stitches",
+            "desc": "Refuse to tell which coworker is responsible for a mistake.",
             "unlocked": false
         },
         {
@@ -441,6 +506,11 @@
         {
             "title": "Don't You Dare.",
             "desc": "Ride the scissor lift without authorization.",
+            "unlocked": false
+        },
+        {
+            "title": "Unauthorized Personnel Only",
+            "desc": "Enter an area you shouldn't.",
             "unlocked": false
         },
         {
