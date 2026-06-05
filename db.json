@@ -479,6 +479,11 @@
             "unlocked": false
         },
         {
+            "title": "Blink 182",
+            "desc": "Work for 6 months.",
+            "unlocked": true
+        },
+        {
             "title": "Savvy",
             "desc": "Work in Electronics.",
             "unlocked": false
