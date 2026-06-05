@@ -81,6 +81,46 @@
             "desc": "Break skin while on the clock.",
             "unlocked": true
         },
+        {
+            "title": "Unauthorized Asset Reistribution",
+            "desc": "Take equipment that was in use.",
+            "unlocked": true
+        },
+        {
+            "title": "Main Rival",
+            "desc": "Commandeer equipment from OGP.",
+            "unlocked": true
+        },
+        {
+            "title": "Openers' Lament",
+            "desc": "Complete the production tutorial.",
+            "unlocked": true
+        },
+        {
+            "title": "That's a Wrap",
+            "desc": "Complete an entire round of daily production (Wraps & Pinwheels)",
+            "unlocked": true
+        },
+        {
+            "title": "I'm Just Like You...",
+            "desc": "Meet a trans coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "...You're Just Like Me",
+            "desc": "Meet a second trans coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "Statistical Accuracy",
+            "desc": "Meet a third trans coworker.",
+            "unlocked": true
+        },
+        {
+            "title": "Unreasonable Addiction",
+            "desc": "Doomscroll while on the clock.",
+            "unlocked": true
+        },
 
 
         {
@@ -101,6 +141,31 @@
         {
             "title": "Hostile Equipment",
             "desc": "Burn yourself with the rotisserie oven.",
+            "unlocked": false
+        },
+        {
+            "title": "Five More Minutes...",
+            "desc": "Fall asleep on break.",
+            "unlocked": false
+        },
+        {
+            "title": "Hot Stuff",
+            "desc": "Burn yourself with fry oil.",
+            "unlocked": false
+        },
+        {
+            "title": "May I Have Your Attention Please?",
+            "desc": "Make an announcement over the store's PA system.",
+            "unlocked": false
+        },
+        {
+            "title": "I'm In",
+            "desc": "Tap into store radio communications with an unauthorized device.",
+            "unlocked": false
+        },
+        {
+            "title": "In The Bathed Room",
+            "desc": "straijt up jorkin it. and by it, well, lets just say.",
             "unlocked": false
         },
         {
@@ -149,13 +214,73 @@
             "unlocked": false
         },
         {
+            "title": "Temporal Obsession",
+            "desc": "Have every punch in one day be precisely on time.",
+            "unlocked": false
+        },
+        {
             "title": "Sam & Ella",
             "desc": "Serve undercooked food.",
             "unlocked": false
         },
         {
+            "title": "My God, What Are You Doing?",
+            "desc": "Explode something in the breakroom microwave.",
+            "unlocked": false
+        },
+        {
+            "title": "Associate Showdown",
+            "desc": "Enter a physical altercation.",
+            "unlocked": false
+        },
+        {
             "title": "The Yeast Of Your Concerns",
-            "desc": "Work in Bakery",
+            "desc": "Work in Bakery.",
+            "unlocked": false
+        },
+        {
+            "title": "Savvy",
+            "desc": "Work in Electronics.",
+            "unlocked": false
+        },
+        {
+            "title": "At Your Fingertips",
+            "desc": "Work in OGP.",
+            "unlocked": false
+        },
+        {
+            "title": "The Fresh Prince",
+            "desc": "Work in Produce.",
+            "unlocked": false
+        },
+        {
+            "title": "Fashionista!",
+            "desc": "Work in Apparel.",
+            "unlocked": false
+        },
+        {
+            "title": "The Beast Stocks It's Prey",
+            "desc": "Work in Stocking II",
+            "unlocked": false
+        },
+        {
+            "title": "Always Use Protection",
+            "desc": "Work in Asset Protection",
+            "unlocked": false
+        },
+        {
+            "title": "Paid More To Do Less",
+            "desc": "Become a Team Lead.",
+            "unlocked": false
+        },
+        {
+            "title": "Poor Choice",
+            "desc": "Become a salaried member of management.",
+            "unlocked": false
+        },
+        {
+            "title": "Secure Shell",
+            "desc": "Work remotely.",
             "unlocked": false
         },
         {
@@ -191,6 +316,11 @@
         {
             "title": "Don't You Dare.",
             "desc": "Ride the scissor lift without authorization.",
+            "unlocked": false
+        },
+        {
+            "title": "Disclaimer",
+            "desc": "Achievements listed to not necessarily reflect real world occurances. There is no intention of executing any actions listed. This page is satirical in nature and in no way reflects employee practices.",
             "unlocked": false
         }
     ]
