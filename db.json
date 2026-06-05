@@ -17,10 +17,42 @@
             "unlocked": true
         },
         {
+            "title": "I'm Ready",
+            "desc": "Clock in at precisely the correct time.",
+            "unlocked": true
+        },
+        {
             "title": "After Dark",
             "desc": "Contact coworkers while off the clock.",
             "unlocked": true
         },
+        {
+            "title": "Crazy Train",
+            "desc": "Complete a full cart of freight.",
+            "unlocked": true
+        },
+        {
+            "title": "Hey, We Are NOT Chicken",
+            "desc": "Load the rotisserie oven",
+            "unlocked": true
+        },
+        {
+            "title": "Industrial Cooling",
+            "desc": "Enter the Walk-In",
+            "unlocked": true
+        },
+        {
+            "title": "So Anyways, I Started Blasting",
+            "desc": "Load the Blast Cooler",
+            "unlocked": true
+        },
+        {
+            "title": "",
+            "desc": "",
+            "unlocked": true
+        },
+
+
         {
             "title": "Don't You Dare.",
             "desc": "Ride the scissor lift without authorization.",
