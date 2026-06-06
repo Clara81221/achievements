@@ -266,11 +266,21 @@
             "desc": "Improve your tools",
             "unlocked": true
         },
+        {
+            "title": "Growing Concern",
+            "desc": "Discover mold in a product",
+            "unlocked": true
+        },
 
 
         {
             "title": "Live External Communications",
             "desc": "Join a voice call while on the clock.",
+            "unlocked": false
+        },
+        {
+            "title": "Nope.",
+            "desc": "Discover mold infesting the building itself ",
             "unlocked": false
         },
         {
@@ -316,7 +326,7 @@
         {
             "title": "Used & Abused",
             "desc": "Break a tool.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Discriminatory Practice",
@@ -526,7 +536,7 @@
         {
             "title": "The Fresh Prince",
             "desc": "Work in Produce.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Fashionista!",
@@ -561,7 +571,7 @@
         {
             "title": "Not (Supposed To Be) My Problem",
             "desc": "Get pulled to a different department.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Unfortunate",
@@ -581,7 +591,7 @@
         {
             "title": "General Odor",
             "desc": "Get called out for smelling like pot.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Bittersweet Symphony",
