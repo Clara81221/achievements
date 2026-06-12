@@ -271,6 +271,11 @@
             "desc": "Discover mold in a product",
             "unlocked": true
         },
+        {
+            "title": "Probably A Little Dangerous",
+            "desc": "Use the automatic slicer",
+            "unlocked": true
+        },
 
 
         {
@@ -311,7 +316,7 @@
         {
             "title": "Caring",
             "desc": "Share food with a coworker.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Snitches Get Stitches",
@@ -401,7 +406,7 @@
         {
             "title": "Company Owned",
             "desc": "Fully promoted to full-time.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "I'm Tired Of This, Grandpa",
@@ -545,7 +550,7 @@
         },
         {
             "title": "The Beast Stocks It's Prey",
-            "desc": "Work in Stocking II",
+            "desc": "Work in Stocking",
             "unlocked": false
         },
         {
@@ -576,11 +581,11 @@
         {
             "title": "Unfortunate",
             "desc": "Drop open food on the floor.",
-            "unlocked": false
+            "unlocked": true 
         },
         {
             "title": "When I Ripped My Pants",
-            "desc": "Ruin an article of clothing at work",
+            "desc": "Ruin an article of clothing at work.",
             "unlocked": false
         },
         {
@@ -610,7 +615,7 @@
         },
         {
             "title": "Disclaimer",
-            "desc": "Achievements listed do not necessarily reflect real world occurances. There is no intention of executing any actions listed. This page is satirical in nature and in no way reflects employee practices.",
+            "desc": "Achievements listed do not reflect real world occurances. There is no intention of executing any actions listed. This page is satirical in nature and in no way reflects employee practices.",
             "unlocked": false
         }
     ]
