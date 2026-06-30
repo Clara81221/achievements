@@ -311,7 +311,7 @@
         {
             "title": "Advance Notice",
             "desc": "Report yourself absent, and stay home.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Harmful Redundancy",
@@ -339,6 +339,11 @@
             "unlocked": true
         },
         {
+            "title": "Sentient Slicing",
+            "desc": "Use the automatic slicer.",
+            "unlocked": true
+        },
+        {
             "title": "Discriminatory Practice",
             "desc": "Receive a derogatory remark.",
             "unlocked": false
@@ -351,7 +356,7 @@
         {
             "title": "Regret",
             "desc": "Go on lunch break without any money for lunch.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Well Done",
@@ -366,7 +371,7 @@
         {
             "title": "Five More Minutes...",
             "desc": "Fall asleep on break.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Sweet Dreams",
@@ -446,7 +451,7 @@
         {
             "title": "Justice May Prevail",
             "desc": "Report a coworker.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Unforeseen Consequences",
@@ -496,7 +501,7 @@
         {
             "title": "The Yeast Of Your Concerns",
             "desc": "Work in Bakery.",
-            "unlocked": false
+            "unlocked": true
         },
         {
             "title": "Blink 182",
